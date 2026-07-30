@@ -33,7 +33,6 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" height="28" style="vertical-align:middle" />
   </p>
   
-  <img src="https://github-readme-quotes.vercel.app/api?theme=soft&quote_type=programming" alt="Programming Quote" />
 </div>
 <!--
 **sushant5101/sushant5101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
